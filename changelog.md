@@ -1,11 +1,11 @@
-# Flint 0.1.21 release!
+# Flint 0.1.33 release!
 
 
 
 ## **Languages** 
 [Languages] Current languages:
 ```
-+ English
++ French (limited availability)
 ```
 
 
@@ -13,20 +13,20 @@
 
 ## **Coding**
 > - [Music] Added multiple nodes for music stability
-> - [Core] Added limited time badges to show off
-> - [Core] Added `Website` link to `botinfo` command
-> - [Core] Added `Flint Version` to `botinfo` command
-> - [Core] Fixed message command count displaying incorrectly for `botinfo` command
-> - [Core] Made limited badges auto obtainable instead of needing to be manually added. Use `_limited` for more information
-> - [Website] Created web landing page for adding and showing off the bots features
-> - [Maintenance] Maintenance mode will now stop users from using commands requiring database when active to mitigate chances of corrupt data
-> - [Languages] Added support for multiple languages (setting up for future projects)
+> - [Command] Fixed `/emotion` command giving api error on use
+> - [Command] Removed Adii from `_bi` command until further notice
+> - [Core] Updated links for most commands
+> - [Core] Updated most inactive emojis for commands (I believe)
+> - [Limited] Added time limit to limited roles in database
+> - [Top.gg] Updated Top.GG page to show website is description
+> - [Top.gg] Added Flint to Flint Group
+> - [Discord] Added Flint bot user to Flint team in Discord  Developer Portal
+> - [Backend] Updated and refreshed tokens to be more secure
+> - [Web] Removed login cookies to be more secure
+> - [Web] Removed header note
+> - [Web] Made multiple changes that can be seen on the Github
+> - [Language] Added French (FR) support for a few commands
 
-
-
-## **Misc**
-> - [Github] Added `languages.json` to Flint Github
-> - [Github] Added `versions.json` to Flint Github
-> - [Github] Added `changelog.md` to Flint Github
+**Limited role Christmas 2022 will never be available again after January 1st @ 12am CST so get it while you can!**
 
 Want to be a tester? Join the [Discord](https://discord.gg/nXPx6UxaWw).
